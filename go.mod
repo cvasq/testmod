@@ -1,1 +1,1 @@
-module github.com/cvasq/testmod
+module github.com/cvasq/testmod/v2
